@@ -11,7 +11,11 @@ Trancking sports team and esports team
 
 1. To get started, clone the git repo and open in your favorite IDE.
 2. Then change into the git folder directory and then into the backend folder.
-3. Once inside the backend folder, run the following command:
+3. Once inside the backend folder, run the following command to install all libraries:
+   ```
+   npm install
+   ```  
+4. Run the NodeJS server with:
    ```
    node app.js
    ```
